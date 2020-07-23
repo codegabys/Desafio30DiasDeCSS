@@ -10,4 +10,5 @@
  </ul>
  <h3>Projetos Realizados</h3>
  <ul>
- <li>
+ <li><a href="http://127.0.0.1:5500/Desafios/Dia1/" target="_blank"> Ícones de Mídias Sociais</a></li>
+ 
