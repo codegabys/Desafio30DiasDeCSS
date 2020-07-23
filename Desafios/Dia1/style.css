@@ -6,6 +6,7 @@ body
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: rgb(90, 86, 82);
 }
 ul
 {
@@ -21,7 +22,7 @@ ul li
     width: 60px;
     height: 60px;
     margin: 0 30px;
-    transform: rotate(-30deg) skew(25deg);
+    transform: rotate(-10deg) skew(30deg);
     background: #ccc;
 }
 ul li span
@@ -70,21 +71,21 @@ ul li:hover span:nth-child(1)
 }
 ul li:nth-child(1) span
 {
-    background: #3b5999;
+    background-color: blue;
 }
 ul li:nth-child(2) span
 {
-    background: #55acee;
+    background: #28292b;
 }
 ul li:nth-child(3) span
 {
-    background: #dd4b39;
+    background: #0f0605;
 }
 ul li:nth-child(4) span
 {
-    background: #0077b5;
+    background: #0e7bb6;
 }
 ul li:nth-child(5) span
 {
-    background: #e4405f;
+    background: #b40571;
 }
