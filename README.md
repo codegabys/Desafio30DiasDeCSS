@@ -10,5 +10,8 @@
  </ul>
  <h3>Projetos Realizados</h3>
  <ul>
- <li><a href="http://127.0.0.1:5500/Desafios/Dia1/" target="_blank"> Ícones de Mídias Sociais</a></li>
+ <li> Ícones de Mídias Sociais</li>
+ <li> Loader animado</li>
+ <li> Mudança de cor quando entra em outra div</li>
+ <li> Botão com efeito</li>
  
