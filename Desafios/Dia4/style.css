@@ -1,0 +1,59 @@
+{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+body 
+{
+    background: #2D142C;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button
+{
+    width: 300px;
+    height: 100px;
+    background: none;
+    border: 5px double;
+    border-radius:15px;
+    color:#801336;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-size: 30px;
+    position: relative;
+}
+
+button::before, button::after
+{
+    content: "";
+   
+    position: absolute;
+    width: 25px;
+    height: 5px;
+    background: #C72C41;
+    transform: skewX(50deg);
+    transition: .1s linear;
+}
+button::before
+{
+    top: -4px;
+    left: 30%;
+}
+button::after
+{
+    bottom: -4px;
+    right: 30%;
+}
+button:hover::before
+{
+    left: 90%;
+}
+button:hover::after
+{
+    right: 90%;
+}
