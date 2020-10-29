@@ -9,8 +9,5 @@
  <h3>Projetos Realizados :wink:</h3>
     <ul>
         <li><a href="https://github.com/codegabys/Praticando-CSS/tree/master/%C3%8Dcones%20de%20m%C3%ADdia%20em%20camadas" target="_blank">Ícones de Mídias Sociais</a></li>
-       
         <li><a href="https://github.com/codegabys/Praticando-CSS/tree/master/Loading" target="_blank">Loader animado</a></li>
-        
-        
     </ul>
