@@ -1,6 +1,7 @@
 # Praticando CSS :computer:
  Projeto que visa ajudar a melhorar minhas habilidades de codificação praticando mini projetos utilizando HTML5 e CSS3
- ## Objetivos: 
+
+## Objetivos: 
  :heavy_check_mark: Entender na prática como funciona o código.<br>
  :heavy_check_mark: Aumentar meu conhecimento e minhas habilidades.<br>
  :heavy_check_mark: Manter uma frequência de projetos postados.
