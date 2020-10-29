@@ -7,9 +7,10 @@
  
 
  <h3>Projetos Realizados :wink:</h3>
- <ul>
- <li> Ícones de Mídias Sociais</li>
- <li> Loader animado</li>
- <li> Mudança de cor quando entra em outra div</li>
- <li> Botão com efeito</li>
+    <ul>
+        <li a href="http://www.google.com" target="_blank">Ícones de Mídias Sociais</a></li>
+        <li> Loader animado</li>
+        <li> Mudança de cor quando entra em outra div</li>
+        <li> Botão com efeito</li>
+    </ul>
  
